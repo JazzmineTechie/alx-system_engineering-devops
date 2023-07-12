@@ -1,2 +1,2 @@
 #!/bin/bash
-tail PATH. /action
+tail $PATH. /action
