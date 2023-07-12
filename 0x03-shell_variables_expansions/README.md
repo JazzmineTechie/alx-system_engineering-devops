@@ -11,3 +11,8 @@ This script that counts the number of directories in the PATH
 
 #lists environment variables.
 This lists the environment variables like $Home and all that stuff
+
+#local variables and environment variables, and functions.
+This lists all local variables and environment variables, and functions.
+
+
