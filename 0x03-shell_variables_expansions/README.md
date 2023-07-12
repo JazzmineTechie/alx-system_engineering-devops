@@ -18,3 +18,6 @@ This lists all local variables and environment variables, and functions.
 #creates a new local variable
 This changes a local variable to a new value
 
+#creates a new global variable.
+
+
