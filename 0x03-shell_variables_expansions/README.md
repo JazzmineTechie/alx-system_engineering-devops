@@ -15,4 +15,6 @@ This lists the environment variables like $Home and all that stuff
 #local variables and environment variables, and functions.
 This lists all local variables and environment variables, and functions.
 
+#creates a new local variable
+This changes a local variable to a new value
 
